@@ -1,0 +1,21 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# Mistral AI
+langchain-mistralai
+mistralai
+
+# Tavily Search Tool
+tavily-python
+langchain-tavily
+
+# BeautifulSoup Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment & Utilities
+python-dotenv
