@@ -18,6 +18,7 @@ requests
 lxml
 
 rich
+streamlit
 
 # Environment & Utilities
 python-dotenv
