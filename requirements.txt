@@ -17,5 +17,7 @@ beautifulsoup4
 requests
 lxml
 
+rich
+
 # Environment & Utilities
 python-dotenv
