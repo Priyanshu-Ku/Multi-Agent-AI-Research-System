@@ -22,7 +22,7 @@ def web_search(query: str) -> str:
 
 
 @tool
-def web_scrape(url:str) -> str:
+def scrape_url(url:str) -> str:
     """Scrape and return clean text content from a given URL for deeper reading."""
     try:
         resp = requests.get(url, timeout=8, headers = {"User-Agent":"Mozilla/5.0"})
